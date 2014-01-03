@@ -16,8 +16,8 @@ div.clouds {
     overflow: hidden;
 }
 div.clouds video, div.clouds object, div.clouds embed {
-    /*width: 100%;*/
-    width: 2000px;
+    width: 100%;
+
     height: auto;
     min-width: 720px;
     margin: 0 auto;  
